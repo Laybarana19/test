@@ -1,2 +1,2 @@
-print ("Hello")u
+print ("Hello")
 print("lgu")
